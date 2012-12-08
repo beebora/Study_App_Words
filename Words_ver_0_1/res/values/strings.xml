@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Words_ver_0_1</string>
+    <string name="title_section3">Test</string>
+    <string name="title_section2">Stastics</string>
+    <string name="title_section1">Learning</string>
+    <string name="title_section4">Temp</string><string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>

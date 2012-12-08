@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Down\Sources\Study_App_Words\.metadata\.plugins\org.eclipse.jdt.core
+1182516215.index
+3591216445.index
+367881512.index
+4259674713.index
+3921574402.index
+1424742700.index
